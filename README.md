@@ -19,7 +19,7 @@ You can use `scripts/train_and_acc.py` to train a model from scratch on a cluste
 Please cite our paper if you use this code or dataset in your own work:
 
 ```
-@inproceedings{bojchevski_sparsesmoothing_2020,
+@inproceedings{TODO,
 title = { Graph neural networks to learn joint representations of disjoint molecular graphs},
 author = {Chen Shao, Chen Zhou, and Pascal Friederich},
 
