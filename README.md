@@ -6,7 +6,7 @@
 
 Reference implementation of the certificates proposed in the paper:
 
-["Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More"](https://arxiv.org/abs/2008.12952)
+["Graph neural networks to learn joint representations of disjoint molecular graph"](https://arxiv.org/)
 
 Chen Shao, Chen Zhou, and Pascal Friederich
 
