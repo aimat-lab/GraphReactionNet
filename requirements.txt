@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+wget
+networkx
+joblib
+tensorboard
+wandb
+tqdm
+seaborn
+python-csv
+scikit-learn
+tensorboard_logger
+tensorboard
+h5py
+IPython
